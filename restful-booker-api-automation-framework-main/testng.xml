@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Restful Booker API Test Suite" parallel="tests" thread-count="1">
+    
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+    
+    <test name="Positive Booking Tests">
+        <classes>
+            <class name="com.restfulbooker.tests.BookingE2ETests"/>
+        </classes>
+    </test>
+    
+    <test name="Negative Booking Tests">
+        <classes>
+            <class name="com.restfulbooker.tests.NegativeBookingTests"/>
+        </classes>
+    </test>
+    
+</suite>

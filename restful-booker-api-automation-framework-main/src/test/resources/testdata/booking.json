@@ -1,0 +1,13 @@
+{
+  "invalidBooking": {
+    "firstname": "",
+    "lastname": "",
+    "totalprice": -999999,
+    "depositpaid": null,
+    "bookingdates": {
+      "checkin": null,
+      "checkout": null
+    },
+    "additionalneeds": ""
+  }
+}
