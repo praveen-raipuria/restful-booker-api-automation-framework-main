@@ -97,7 +97,7 @@ restful-booker-api-automation-framework/
 
 **Step 1 — Clone the project**
 ```bash
-git clone https://github.com/SalunkeGaurav/restful-booker-api-automation-framework.git
+git clone https://github.com/praveen-raipuria/restful-booker-api-automation-framework.git
 ```
 
 **Step 2 — Open in IntelliJ and let Maven download dependencies**
@@ -124,5 +124,5 @@ scoop install allure
 
 ## Author
 
-**Gaurav Salunke**
-[LinkedIn](https://linkedin.com/in/gaurav-salunke-117594195) | [GitHub](https://github.com/SalunkeGaurav)
+**Praveen Raipuria**
+[LinkedIn](https://linkedin.com/in/praveen-raipuria) | [GitHub](https://github.com/praveen-)
